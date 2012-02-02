@@ -1,0 +1,42 @@
+This test code demonstrates the ability of ExtJS 4 to load a variety of widgets with different configurations and dynamic stores, and rearrange them inside a layout to 10 presets. 
+
+I have included two tables for reference. The first is a quick chart of the x/y coordinates that widgets can be positioned in, and the second is a chart of widget ID's and their corresponding titles.
+
+CHART 1
+========
+
+		10		315		620		925		1230	1535
+40
+145
+250
+355
+460
+565
+670
+775
+880
+985
+1090
+1195
+1300
+1405
+1510
+
+CHART 2
+========
+
+Widget ID	Title
+1			Demo Window 1
+2			Bar Renderer
+3			Demo Window 3
+4			Washington Post
+5			Grouped Header Grid
+6			Sencha Logo
+7			Check Tree
+8			Radar Graph
+9			Demo Window 9
+10			Browser Usage
+11			Semester Trends
+12			Scatter Chart Renderer
+13			Amazon Book Grid
+14			Restaurants
